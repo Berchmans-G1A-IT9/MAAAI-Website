@@ -1,0 +1,158 @@
+body{
+    background-color: #ebced5;
+	
+}
+
+div#navigation{
+    display: inline-block;
+    width: 100%;
+	font-family: Verdana;
+    font-weight: bold;
+    background-color: #db8c9f;
+    text-align: left;
+    padding: 7px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	display: inline;
+	float: left;
+	font-family:Noto Sans Mono;
+	border-right:solid 1px #fff;
+}
+
+a:hover{
+	background-color: #329BA9;
+}
+
+div#header{
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-bottom: 70px;
+    padding-left: 20px;
+	background-color: white;
+	Border-radius: 3%;
+	border-style: outset;
+}
+
+h1{
+	font-family: Permanent Marker;
+	color:#006666;
+}
+
+img.logo{
+	float: left;
+}
+
+div#maaai{
+     width: 100%;
+	 font-family:
+}
+
+div.info{
+     width: 60%; 
+	 height: 290%; 
+	 float: left; 
+	 background: #f0f5f1;
+	 padding: 10px;
+	 border-radius: 3%;
+	 font-family: Noto Sans Mono;
+	 color:#006666;
+}
+
+
+div#aboutysa{
+     width: 35%; 
+	 height: auto; 
+	 float: right; 
+     background: rgb(255,225,229);
+	 padding: 10px 10px 10px 10px;
+	 border-radius: 3%; 
+	 font-family: Noto Sans Mono;
+	 color:#006666;
+}
+
+div#abouthanaandastin{
+     width: 35%; 
+	 height: auto; 
+	 float: right; 
+	 background-color: #329BA9; 
+	 padding: 10px 10px 10px 10px;
+	 border-radius: 3%; 
+	 font-family: Tahoma;
+	 color:white;
+}
+
+div#aboutmiguel{
+     width: 35%; 
+	 height: auto; 
+	 float: right; 
+	 background-color: #800000;
+	 padding: 10px 10px 10px 10px;
+	 border-radius: 3%;
+	 font-family: Lucida Console;
+	 color: White;
+}
+
+div#abouttherese{
+     width: 35%; 
+	 height: auto; 
+	 float: right; 
+	 background-color:#F33A6A;
+	 padding: 10px 10px 10px 10px;
+	 border-radius: 3%; 
+	 font-family: 'Noto Sans Mono', monospace;
+	 color:#FFFFFF;
+} 
+
+div#sidebar{
+     width: 35%; 
+	 height: auto; 
+	 float: right; 
+     background: rgb(255,225,229);
+     background: linear-gradient(90deg, rgba(255,225,229,1) 0%, rgba(231,172,200,1) 35%, rgba(242,149,171,1) 100%);
+	 padding: 10px 10px 10px 10px;
+	 border-radius: 3%; 
+	 font-family: Noto Sans Mono;
+	 color:#006666;
+	 margin-top: 10px;
+}
+
+img.designer{
+	 object-fit: cover;
+
+}
+
+
+div#footer{
+    display: inline-block;
+    width: 100%;
+	font-family:'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: #db8c9f;
+	color:white;
+    text-align: left;
+    padding: 7px;
+    text-decoration: none;
+    text-transform: uppercase;
+	margin-top: 20px;
+}
+
+a.top{
+     text-decoration: none;
+     padding: 10px;
+     font-family: sans-serif;
+     color: #fff;
+     background: #329BA9;
+     border-radius: 100px;
+	 float: right;
+	 margin-top: 10px;
+	 font-size: 25px;
+}
+
